@@ -2,8 +2,8 @@
 Welcome to my repository! This project is tailored for beginners in web development, focusing on HTML and CSS. Whether you're just starting out or looking to refresh your skills, this mini-project provides a hands-on learning experience. Dive into the code, explore different elements, and enhance your understanding of front-end web development. Happy coding! 🚀
 
 # Links
-Advanced Technologies Cover Page - advancednaidu.ccbp.tech
-Coding Cover Page - codingnaidu.ccbp.tech
+Advanced Technologies Cover Page - advancednaidu.ccbp.tech <br/>
+Coding Cover Page - codingnaidu.ccbp.tech <br/>
 COVID-19Page- covid19naidu.ccbp.tech
 Cricketer Page - cricketnaidu.ccbp.tech
 Food Order Page - orderpagenaidu.ccbp.tech
