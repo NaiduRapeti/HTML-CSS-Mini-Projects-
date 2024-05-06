@@ -4,14 +4,14 @@ Welcome to my repository! This project is tailored for beginners in web developm
 # Links
 Advanced Technologies Cover Page - advancednaidu.ccbp.tech <br/>
 Coding Cover Page - codingnaidu.ccbp.tech <br/>
-COVID-19Page- covid19naidu.ccbp.tech
-Cricketer Page - cricketnaidu.ccbp.tech
-Food Order Page - orderpagenaidu.ccbp.tech
-Goa Page - naidugoapage.ccbp.tech
-Hotel Booking Page - naiduhotel.ccbp.tech
-News Page - newspagenaidu.ccbp.tech
-Simple Chat Page - chatpagenaidu.ccbp.tech
-To do list - todolistnaidu.ccbp.tech
+COVID-19Page- covid19naidu.ccbp.tech <br/>
+Cricketer Page - cricketnaidu.ccbp.tech<br/>
+Food Order Page - orderpagenaidu.ccbp.tech<br/>
+Goa Page - naidugoapage.ccbp.tech<br/>
+Hotel Booking Page - naiduhotel.ccbp.tech<br/>
+News Page - newspagenaidu.ccbp.tech<br/>
+Simple Chat Page - chatpagenaidu.ccbp.tech<br/>
+To do list - todolistnaidu.ccbp.tech<br/>
 
 # Contents
  Introduction
